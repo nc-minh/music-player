@@ -23,44 +23,44 @@ const app = {
         {
             name: 'Chân tình',
             singer: 'Thái Engg - Thắng Nguyễn',
-            path: '/Music-player/assets/music/song1.mp3',
-            image: '/Music-player/assets/img/song1.jpg'
+            path: '/assets/music/song1.mp3',
+            image: '/assets/img/song1.jpg'
         },
         {
             name: 'Có ai ở đây không',
             singer: '14 Casper x Bon',
-            path: '/Music-player/assets/music/song2.mp3',
-            image: '/Music-player/assets/img/song2.jpg'
+            path: '/assets/music/song2.mp3',
+            image: '/assets/img/song2.jpg'
         },
         {
             name: 'Đôi mắt',
             singer: 'GDucky',
-            path: '/Music-player/assets/music/song3.mp3',
-            image: '/Music-player/assets/img/song3.jpg'
+            path: '/assets/music/song3.mp3',
+            image: '/assets/img/song3.jpg'
         },
         {
             name: 'Dù cho mai về sau',
             singer: 'buitruonglinh',
-            path: '/Music-player/assets/music/song4.mp3',
-            image: '/Music-player/assets/img/song4.jpg'
+            path: '/assets/music/song4.mp3',
+            image: '/assets/img/song4.jpg'
         },
         {
             name: 'Em 20',
             singer: 'Winno',
-            path: '/Music-player/assets/music/song5.mp3',
-            image: '/Music-player/assets/img/song5.jpg'
+            path: '/assets/music/song5.mp3',
+            image: '/assets/img/song5.jpg'
         },
         {
             name: 'Lời xin lỗi vụng về',
             singer: 'Anh Quân AP',
-            path: '/Music-player/assets/music/song6.mp3',
-            image: '/Music-player/assets/img/song6.jpg'
+            path: '/assets/music/song6.mp3',
+            image: '/assets/img/song6.jpg'
         },
         {
             name: 'Tình yêu bận bịu',
             singer: 'TLing',
-            path: '/Music-player/assets/music/song7.mp3',
-            image: '/Music-player/assets/img/song7.jpg'
+            path: '/assets/music/song7.mp3',
+            image: '/assets/img/song7.jpg'
         }
     ],
     setConfig: function(key, value){
