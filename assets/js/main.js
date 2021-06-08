@@ -23,14 +23,14 @@ const app = {
         {
             name: 'Chân tình',
             singer: 'Thái Engg - Thắng Nguyễn',
-            path: '/assets/music/song1.mp3',
-            image: '/assets/img/song1.jpg'
+            path: '../music/song1.mp3',
+            image: '../img/song1.jpg'
         },
         {
             name: 'Có ai ở đây không',
             singer: '14 Casper x Bon',
-            path: '/assets/music/song2.mp3',
-            image: '/assets/img/song2.jpg'
+            path: '../music/song2.mp3',
+            image: '../img/song2.jpg'
         },
         {
             name: 'Đôi mắt',
